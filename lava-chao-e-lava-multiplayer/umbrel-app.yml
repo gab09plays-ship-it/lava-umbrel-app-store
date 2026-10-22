@@ -6,7 +6,7 @@ tagline: Chão é Lava Multiplayer
 icon: https://svgur.com/i/mvA.svg
 category: Games
 version: "1.0.0"
-port: 8787
+port: 8788
 description: >-
   Jogue Chão é Lava com seus amigos em multiplayer.
 developer: gab09plays-ship-it
