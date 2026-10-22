@@ -1,29 +1,23 @@
+
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
+id: lava-chao-e-lava-multiplayer
+name: LAVA
+tagline: Chão é Lava Multiplayer
 icon: https://svgur.com/i/mvA.svg
-category: Development
+category: Games
 version: "1.0.0"
-port: 4000
+port: 8787
 description: >-
-  Add your app's description here.
-
-
-  You can also add newlines!
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
-gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  Jogue Chão é Lava com seus amigos em multiplayer.
+developer: gab09plays-ship-it
+website: https://github.com/gab09plays-ship-it/lava-umbrel-app-store
+submitter: gab09plays-ship-it
+submission: https://github.com/gab09plays-ship-it/lava-umbrel-app-store
+repo: https://github.com/gab09plays-ship-it/lava-umbrel-app-store
+support: https://github.com/gab09plays-ship-it/lava-umbrel-app-store/issues
+gallery: []
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  Primeira versão do LAVA.
 dependencies: []
 path: ""
 defaultUsername: ""
